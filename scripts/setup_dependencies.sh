@@ -4,7 +4,7 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 sudo apt-get update
-# sudo apt-get upgrade
+sudo apt-get upgrade
 sudo apt-get --assume-yes install firefox-esr
 sudo apt-get --assume-yes install unclutter
 
