@@ -7,3 +7,5 @@ bash scripts/setup_dependencies.sh
 # bash scripts/setup_system.sh
 bash scripts/setup_autostart.sh
 
+echo "Done, please reboot now!"
+
