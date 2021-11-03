@@ -14,7 +14,7 @@ This monitor is connected to a **Raspberry Pi 4** via the HDMI port:
 2) Go inside the project directory `cd /home/pi/Raspberry_Pi_Kiosk_Display`
 3) Run the setup script: `sudo bash setup.sh`
 4) Specify the desired website by placing the URL in the file `website.txt`, :bangbang: Make sure your URL is in the **first line** of the text file (just like the already existing *google.com*)
-5) If the script shows its done, restart by executing `restart now`
+5) If the script shows its done, restart by executing `sudo reboot now`
 
 :bangbang: If you want to **update the URL in the future**, you only need to do **step 4 and 5**. 
 
