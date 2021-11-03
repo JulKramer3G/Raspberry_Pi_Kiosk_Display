@@ -5,6 +5,6 @@ fi
 
 echo '@pcmanfm --desktop --profile LXDE-pi' | tee -a /etc/xdg/lxsession/LXDE-pi/autostart 
 echo '@xscreensaver -no-splash' | tee -a /etc/xdg/lxsession/LXDE-pi/autostart 
-echo '@sh /home/pi/raspberry_pi_kiosk_display/scripts/start_display.sh' | tee -a /etc/xdg/lxsession/LXDE-pi/autostart
+echo '@sh /home/pi/Raspberry_Pi_Kiosk_Display/scripts/start_display.sh' | tee -a /etc/xdg/lxsession/LXDE-pi/autostart
 
 echo "Done!"
