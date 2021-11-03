@@ -15,6 +15,7 @@ This monitor is connected to a **Raspberry Pi 4** via the HDMI port:
 3) Run the setup script: `sudo bash setup.sh`
 4) Specify the desired website by placing the URL in the file `website.txt`, :bangbang: Make sure your URL is in the **first line** of the text file (just like the already existing *google.com*)
 5) If the script shows its done, restart by executing `sudo reboot now`
+
 After reboot, it may take up to 30 seconds (while the desktop is shown) before the website is displayed. Just wait a little. 
 
 :bangbang: If you want to **update the URL in the future**, you only need to do **step 4 and 5**. 
