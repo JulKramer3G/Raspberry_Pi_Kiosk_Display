@@ -1,5 +1,5 @@
 # Raspberry_Pi_Kiosk_Display
- Displays a given URL in Fullscreen mode and hides the mouse pointer, aswell as the navigation bar in the browser.
+ Displays a given URL in Fullscreen mode and hides the mouse pointer, as well as the navigation bar in the browser.
 
 ## Demo
 This monitor is connected to a **Raspberry Pi 4** via the HDMI port: 
